@@ -10,17 +10,20 @@
 	border-radius: 15px; 
   	width: 40px;
   	padding: 4px;
+  	transition: all 500ms;
 }
 .face {
 	border-radius: 15px;
 	width: 40px;
 	padding: 4px;
+	transition: all 500ms;
 }
 .gmail {
 	border-radius: 15px;
   	height: 40px;
   	width: 40px;
   	padding: 4px;
+  	transition: all 500ms;
 }
 .link:hover {
 	box-shadow: 0px 0px 20px #2c75ff;
